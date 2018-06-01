@@ -1,0 +1,19 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "mariners-scoreboard-test"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2018/sports/mariners-scoreboard"
+    }
+  },
+  "title": "Seattle Mariners live scoreboard",
+  "description": "Seattle sports live scoreboard",
+  "url": "http://projects.seattletimes.com/2018/sports/mariners-scoreboard/",
+  "image": "assets/social.jpg",
+  "sheets": [],
+  "production": true,
+  "embedded": true
+}
